@@ -1,4 +1,4 @@
-#### using react redux toolkit
+#### using Redux and React-redux and redux-toolkit
 
 get data and install json-server: ` npm i json-server `
 
